@@ -1,0 +1,17 @@
+{
+  "name": "observable-issue-demo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-current": "rollup -c rollup.config.js use-current.js",
+    "build-corrected": "rollup -c rollup.config.js use-corrected.js",
+    "build-workaround": "rollup -c rollup.config.js use-workaround.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^0.41.6",
+    "rollup-plugin-node-resolve": "^3.0.0"
+  }
+}
