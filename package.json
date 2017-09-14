@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "rollup": "^0.41.6",
+    "rollup": "^0.49.3",
     "rollup-plugin-node-resolve": "^3.0.0"
   }
 }
