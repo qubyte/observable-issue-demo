@@ -1,5 +1,7 @@
 # Issue demo using rollup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/qubyte/observable-issue-demo.svg)](https://greenkeeper.io/)
+
 First run: `npm install`
 
 Use `npm run build-current` to simulate the current case. This demonstrates that
